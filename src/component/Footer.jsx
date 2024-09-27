@@ -4,7 +4,7 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons';
 import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
 function Footer() {
     return(
-        <footer id= "footer"className="bg-[#181d20]  justify-center p-4">
+        <footer id= "contact" className="bg-[#181d20]  justify-center p-4">
             <div className="flex justify-between">
                 <a className='text-xl font-bold text-white hover:text-[#7f69a5]'>
                 <FontAwesomeIcon icon={faInstagram} />

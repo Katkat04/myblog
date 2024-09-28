@@ -71,4 +71,40 @@ export const cardsInfo = [
             }
         ]
     },
+    {
+        "id": 3,
+        "type": "Tools",
+        "items": [
+            {
+                "id": 1,
+                "title": "Git",
+                "icon": "https://img.icons8.com/color/48/git.png"  
+            },
+            {
+                "id": 2,
+                "title": "VS Code",
+                "icon": "https://img.icons8.com/color/48/visual-studio-code-2019.png"  
+            },
+            {
+                "id": 3,
+                "title": "GitHub",
+                "icon": "https://img.icons8.com/tiny-color/48/github.png"  
+            },
+            {
+                "id": 4,
+                "title": "IntelliJ",
+                "icon": "https://img.icons8.com/color/48/intellij-idea.png"  
+            },
+            {
+                "id":5,
+                "title":"Figma",
+                "icon":"https://img.icons8.com/color/48/figma--v1.png"
+            },
+            {
+                "id":6,
+                "title":"Jira",
+                "icon":"https://img.icons8.com/color/48/jira.png"
+            }
+        ]
+    },
 ];

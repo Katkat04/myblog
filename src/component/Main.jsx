@@ -1,6 +1,7 @@
 import React from 'react';
 import FAbout from './fAbout'; // Verifica que la ruta sea correcta
 import FSkills from './fSkills'; // Verifica que la ruta sea correcta
+import FEducation from './FEducation';
 
 function Main() {
   return (
@@ -25,8 +26,8 @@ function Main() {
       </section>
 
       <section id="education" className="relative z-10 w-full px-40 text-white flex flex-col items-center">
-        <h2 className="text-4xl font-bold text-center">Education</h2> 
-        <p className="mt-4 text-center">Time Line</p> 
+        <h2 className="text-4xl font-bold text-center py-2">Education</h2> 
+        <FEducation/>
       </section>
 
       <section id="projects" className="relative z-10 w-full px-40 text-white flex flex-col items-center">

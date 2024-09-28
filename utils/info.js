@@ -61,8 +61,8 @@ export const cardsInfo = [
             },
             {
                 "id":5,
-                "title":"Flask",
-                "icon":"https://img.icons8.com/nolan/64/flask.png"
+                "title":"Azure",
+                "icon":"https://img.icons8.com/fluency/48/azure-1.png"
             },
             {
                 "id":6,
@@ -82,7 +82,7 @@ export const cardsInfo = [
             },
             {
                 "id": 2,
-                "title": "VS Code",
+                "title": "Visual Studio Code",
                 "icon": "https://img.icons8.com/color/48/visual-studio-code-2019.png"  
             },
             {
@@ -92,7 +92,7 @@ export const cardsInfo = [
             },
             {
                 "id": 4,
-                "title": "IntelliJ",
+                "title": "IntelliJ IDEA",
                 "icon": "https://img.icons8.com/color/48/intellij-idea.png"  
             },
             {
@@ -104,6 +104,52 @@ export const cardsInfo = [
                 "id":6,
                 "title":"Jira",
                 "icon":"https://img.icons8.com/color/48/jira.png"
+            },
+            {
+                "id":7, 
+                "title":"Canva",
+                "icon":"https://img.icons8.com/fluency/48/canva.png"
+            },
+            {
+                "id":8, 
+                "title": "Latex",
+                "icon": "https://img.icons8.com/fluency/48/texshop.png"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "type": "Interpersonal",
+        "items": [
+            {
+                "id": 1,
+                "title": "Comunication",
+                "icon": "https://img.icons8.com/color/48/communication.png"  
+            },
+            {
+                "id": 2,
+                "title": "Leadership",
+                "icon": "https://img.icons8.com/color-glass/48/leadership.png"  
+            },
+            {
+                "id": 3,
+                "title": "Creative",
+                "icon": "https://img.icons8.com/fluency/48/creativity.png"  
+            },
+            {
+                "id":4, 
+                "title":"Atention to details",
+                "icon":"https://img.icons8.com/external-wanicon-two-tone-wanicon/64/external-magnifying-glass-education-wanicon-two-tone-wanicon.png" 
+            },
+            {
+                "id":5,
+                "title":"Time Management",
+                "icon":"https://img.icons8.com/color/48/clock--v4.png"
+            },
+            {
+                "id":6,
+                "title":"Negociation",
+                "icon":"https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-negotiation-marketing-agency-flaticons-lineal-color-flat-icons.png"
             }
         ]
     },

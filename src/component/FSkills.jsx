@@ -22,7 +22,7 @@ function Card({ title, items }) {
 
 function FSkills() {
     return (
-        <section className="flex-col w-full h-auto bg-inherit px-6 py-2">
+        <section className="flex-col w-full h-auto bg-inherit md:px-24 py-2">
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 py-2"> 
                 {cardsInfo.map((card) => (
                     <Card key={card.id} title={card.type} items={card.items} />
@@ -33,3 +33,4 @@ function FSkills() {
 }
 
 export default FSkills
+

@@ -1,6 +1,6 @@
 function FEducation() {
     return (
-    <div class="space-y-8 relative before:absolute before:inset-0 before:ml-5 before:-translate-x-px md:before:mx-auto md:before:translate-x-0 before:h-full before:w-0.5 before:bg-gradient-to-b before:from-transparent before:via-[#7f69a5] before:to-transparent">
+    <div class="space-y-8 relative before:absolute before:inset-0 before:ml-5 before:-translate-x-px md:before:mx-auto md:before:translate-x-0 before:h-full before:w-0.5 before:bg-gradient-to-b before:from-transparent before:via-[#7f69a5] before:to-transparent ">
         <div class="relative flex items-center justify-between md:justify-normal md:odd:flex-row-reverse group is-active">
             <div class="flex items-center justify-center w-10 h-10 rounded-full border border-[#7f69a5] bg-slate-300 group-[.is-active]:bg-white text-white group-[.is-active]:text-[#665682] shadow shrink-0 md:order-1 md:group-odd:-translate-x-1/2 md:group-even:translate-x-1/2">
                 <svg class="fill-current" xmlns="http://www.w3.org/2000/svg" width="12" height="10">

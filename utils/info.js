@@ -153,4 +153,39 @@ export const cardsInfo = [
             }
         ]
     },
-];
+]
+
+export const projectsInfo =[
+    {
+    "id": 1, 
+    "photo": "/assets/conejo.jpg",
+    "title": "Nanana", 
+    "description": [
+        "as", "s"
+    ]
+    },
+    {
+        "id": 2, 
+        "photo" : "/assets/conejo.jpg",
+        "title":"Bla",
+        "description": [
+            "as", "s"
+        ]
+    },
+    {
+        "id": 3,
+        "photo": "/assets/conejo.jpg",
+        "title": "ddde",
+        "description": [
+            "as", "s"
+        ]
+    },
+    {
+        "id": 4, 
+        "photo": "/assets/conejo.jpg",
+        "title": "ers",
+        "description": [
+            "as", "s"
+        ]
+    }
+]

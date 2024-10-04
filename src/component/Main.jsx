@@ -1,7 +1,8 @@
 import React from 'react';
-import FAbout from './fAbout'; // Verifica que la ruta sea correcta
-import FSkills from './fSkills'; // Verifica que la ruta sea correcta
+import FAbout from './FAbout'; 
+import FSkills from './FSkills';
 import FEducation from './FEducation';
+import FProjects from './FProjects';
 
 function Main() {
   return (
@@ -18,12 +19,12 @@ function Main() {
         </video>
       </div>
       <section id="about" className="relative z-10 w-full  text-white flex flex-col items-center">
-         <FAbout />
+         <FAbout/>
       </section>
 
       <section id="skills" className="relative z-10 w-full text-white flex flex-col items-center">
         <h2 className="text-4xl font-bold text-center">Skills</h2>
-        <FSkills /> 
+        <FSkills/> 
       </section>
 
       <section id="education" className="relative z-10 w-full  text-white flex flex-col items-center">
@@ -33,7 +34,7 @@ function Main() {
 
       <section id="projects" className="relative z-10 w-full text-white flex flex-col items-center ">
         <h2 className="text-4xl font-bold text-center">Projects</h2> 
-        <p className="mt-4 text-center">box1</p> 
+        <FProjects/>
       </section>
     </main>
   );

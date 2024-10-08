@@ -10,9 +10,9 @@ function FEducation() {
             <div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] bg-[#181d20] p-4 rounded border border-slate-200 shadow-lg shadow-[#7f69a5] transform transition-transform duration-300 hover:scale-105">
                 <div class="flex items-center justify-between space-x-2 mb-1">
                     <div class="font-bold text-white">High School Degree</div>
-                    <time class="font-caveat font-medium text-indigo-500">08/06/2023</time>
+                    <time class="font-caveat font-medium text-indigo-500">28/11/2019</time>
                 </div>
-                <div class="text-slate-500">Pretium lectus quam id leo. Urna et pharetra aliquam vestibulum morbi blandit cursus risus.</div>
+                <div class="text-slate-500">This degree signifies the successful completion of secondary education.</div>
             </div>
         </div>
         <div class="relative flex items-center justify-between md:justify-normal md:odd:flex-row-reverse group is-active">
@@ -26,7 +26,7 @@ function FEducation() {
                     <div class="font-bold text-white">Certification AZ-900</div>
                     <time class="font-caveat font-medium text-indigo-500">09/06/2023</time>
                 </div>
-                <div class="text-slate-500">Pretium lectus quam id leo. Urna et pharetra aliquam vestibulum morbi blandit cursus risus.</div>
+                <div class="text-slate-500">Microsoft Azure Fundamentals is the certification that validates your knowledge of the main functions of Microsoft cloud: Azure</div>
             </div>
         </div>
         <div class="relative flex items-center justify-between md:justify-normal md:odd:flex-row-reverse group is-active">
@@ -37,10 +37,10 @@ function FEducation() {
             </div>
             <div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] bg-[#181d20] p-4 rounded border border-slate-200 shadow-lg shadow-[#7f69a5] transform transition-transform duration-300 hover:scale-105">
                 <div class="flex items-center justify-between space-x-2 mb-1">
-                    <div class="font-bold text-white">College Degree</div>
-                    <time class="font-caveat font-medium text-indigo-500">10/06/2023</time>
+                    <div class="font-bold text-white">Advanced React</div>
+                    <time class="font-caveat font-medium text-indigo-500">In progress</time>
                 </div>
-                <div class="text-slate-500">Pretium lectus quam id leo. Urna et pharetra aliquam vestibulum morbi blandit cursus risus.</div>
+                <div class="text-slate-500">This course is part of the Meta Front-End Developer Professional Certificate.</div>
             </div>
         </div>
         <div class="relative flex items-center justify-between md:justify-normal md:odd:flex-row-reverse group is-active">
@@ -51,10 +51,10 @@ function FEducation() {
             </div>
             <div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] bg-[#181d20] p-4 rounded border border-slate-200 shadow-lg shadow-[#7f69a5] transform transition-transform duration-300 hover:scale-105">
                 <div class="flex items-center justify-between space-x-2 mb-1">
-                    <div class="font-bold text-white">Out of Delivery</div>
-                    <time class="font-caveat font-medium text-indigo-500">12/06/2023</time>
+                    <div class="font-bold text-white">Web site and front-end development with Bootstrap</div>
+                    <time class="font-caveat font-medium text-indigo-500">In progress</time>
                 </div>
-                <div class="text-slate-500">Pretium lectus quam id leo. Urna et pharetra aliquam vestibulum morbi blandit cursus risus.</div>
+                <div class="text-slate-500">IMB's Front-End Developer Professional Certificate, you will be equipped with the concepts and have several opportunities to practice building website components using Bootstrap. </div>
             </div>
         </div>
         <div class="relative flex items-center justify-between md:justify-normal md:odd:flex-row-reverse group">
@@ -65,10 +65,10 @@ function FEducation() {
             </div>
             <div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] bg-[#181d20] p-4 rounded border border-white shadow-lg shadow-[#7f69a5] transform transition-transform duration-300 hover:scale-105">
                 <div class="flex items-center justify-between space-x-2 mb-1">
-                    <div class="font-bold text-white">Delivered</div>
-                    <time class="font-caveat font-medium text-amber-500">Exp. 12/08/2023</time>
+                    <div class="font-bold text-white">College Degree</div>
+                    <time class="font-caveat font-medium text-amber-500"> 25/03/2025</time>
                 </div>
-                <div class="text-slate-500">Pretium lectus quam id leo. Urna et pharetra aliquam vestibulum morbi blandit cursus risus.</div>
+                <div class="text-slate-500">This degree certifies that you have studied Systems Engineering, acquiring knowledge in the design, development and management of information systems.</div>
             </div>
         </div>
     </div>

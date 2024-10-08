@@ -14,11 +14,13 @@ function FAbout() {
                     I'm Katy Diaz
                 </h2>
                 <p className="mt-4 text-justify">
-                    I'm a frontend developer passionate about modern web development, I love to learn and constantly improve my skills in new technologies. My main focus is to create intuitive user experiences with responsive and visually appealing interfaces. I also enjoy the process of transforming ideas into functional products that positively impact users.
+                    I'm a frontend developer passionate about modern web development, I love to learn and constantly improve my skills in new technologies. 
+                    My main focus is to create intuitive user experiences with responsive and visually appealing interfaces. 
+                    I also enjoy the process of transforming ideas into functional products that positively impact users.
                 </p>
             </div>
         </section>
-    );
+    )
 }
 
-export default FAbout;
+export default FAbout

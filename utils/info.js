@@ -32,6 +32,11 @@ export const cardsInfo = [
                 "id":6,
                 "title": "Dart",
                 "icon":"https://img.icons8.com/color/48/dart.png"
+            },
+            {
+                "id":7,
+                "title": "Vite",
+                "icon":"https://img.icons8.com/fluency/48/vite.png"
             }
         ]
     },

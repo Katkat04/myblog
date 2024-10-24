@@ -76,4 +76,3 @@ function FEducation() {
   }
   
   export default FEducation;
-  

@@ -43,6 +43,12 @@ function Header() {
               data-tooltip-target="left-tooltip"
               onMouseEnter={() => setHoveredLink('popover')}
               onMouseLeave={handleMouseLeave}
+              onClick={()=> {
+                const link =document.createElement("a")
+                link.href = "assets/CV.pdf"
+                link.download = "KatyDiaz_CurriculumVitae.pdf"
+                link.click()
+              }}
             >
               <FontAwesomeIcon icon={faFileArrowDown}/>
             </button>

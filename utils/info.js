@@ -66,13 +66,8 @@ export const cardsInfo = [
             },
             {
                 "id":5,
-                "title":"Azure",
-                "icon":"https://img.icons8.com/fluency/48/azure-1.png"
-            },
-            {
-                "id":6,
-                "title":"Firebase",
-                "icon":"https://img.icons8.com/color/48/firebase.png"
+                "title":"TypeScript",
+                "icon":"https://img.icons8.com/color/48/typescript.png"
             }
         ]
     },
